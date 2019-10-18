@@ -22,6 +22,7 @@ public class Lab1_CarlosFortin_11911015 {
         // TODO code application logic here
         
         //ejercicio 1
+        System.out.println("Laboratorio 1");
         System.out.println("Ejercicio 1");
         int[][] matrix=fillMatrix(4,4);
         System.out.println("La matriz generada es: ");
